@@ -1,0 +1,4 @@
+name: east_Bans
+version: 1.0
+author: eastcause
+main: me.eastcause.bans.BanPlugin

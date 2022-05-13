@@ -1,0 +1,10 @@
+bungeecord-server-name: north
+rabbitmq:
+  server:
+    host: 127.0.0.1
+    port: 5672
+    queue: "bungeeBansMQ"
+  proxy:
+    host: 127.0.0.1
+    port: 5672
+    queue: "northBansMQ"
